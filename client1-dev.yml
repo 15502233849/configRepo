@@ -1,0 +1,3 @@
+test: tjetc
+server:
+  port: 8888
