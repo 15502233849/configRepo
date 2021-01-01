@@ -1,3 +1,4 @@
 test: tjetc
 server:
   port: 8888
+milk: product_tjetc
